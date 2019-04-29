@@ -1,0 +1,17 @@
+[Sat Apr 27 00:19:19.805045 2019] [mpm_winnt:notice] [pid 8340:tid 584] AH00455: Apache/2.4.25 (Win32) PHP/7.1.1 configured -- resuming normal operations
+[Sat Apr 27 00:19:19.805045 2019] [mpm_winnt:notice] [pid 8340:tid 584] AH00456: Apache Lounge VC14 Server built: Dec 17 2016 10:42:52
+[Sat Apr 27 00:19:19.805045 2019] [core:notice] [pid 8340:tid 584] AH00094: Command line: 'C:\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZ/core/apache2 -f C:\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZ\\core\\apache2'
+[Sat Apr 27 00:19:19.810032 2019] [mpm_winnt:notice] [pid 8340:tid 584] AH00418: Parent: Created child process 31308
+[Sat Apr 27 00:19:21.103158 2019] [mpm_winnt:notice] [pid 31308:tid 788] AH00354: Child: Starting 150 worker threads.
+[Sat Apr 27 00:20:35.196835 2019] [core:warn] [pid 30316:tid 612] AH00098: pid file C:/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Apr 27 00:20:35.229749 2019] [mpm_winnt:notice] [pid 30316:tid 612] AH00455: Apache/2.4.25 (Win32) PHP/7.1.1 configured -- resuming normal operations
+[Sat Apr 27 00:20:35.229749 2019] [mpm_winnt:notice] [pid 30316:tid 612] AH00456: Apache Lounge VC14 Server built: Dec 17 2016 10:42:52
+[Sat Apr 27 00:20:35.229749 2019] [core:notice] [pid 30316:tid 612] AH00094: Command line: 'C:\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZ/core/apache2 -f C:\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZ\\core\\apache2'
+[Sat Apr 27 00:20:35.234733 2019] [mpm_winnt:notice] [pid 30316:tid 612] AH00418: Parent: Created child process 31680
+[Sat Apr 27 00:20:36.671719 2019] [mpm_winnt:notice] [pid 31680:tid 660] AH00354: Child: Starting 150 worker threads.
+[Sun Apr 28 23:02:12.644811 2019] [core:warn] [pid 10112:tid 744] AH00098: pid file C:/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Apr 28 23:02:13.056924 2019] [mpm_winnt:notice] [pid 10112:tid 744] AH00455: Apache/2.4.25 (Win32) PHP/7.1.1 configured -- resuming normal operations
+[Sun Apr 28 23:02:13.056924 2019] [mpm_winnt:notice] [pid 10112:tid 744] AH00456: Apache Lounge VC14 Server built: Dec 17 2016 10:42:52
+[Sun Apr 28 23:02:13.056924 2019] [core:notice] [pid 10112:tid 744] AH00094: Command line: 'C:\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/UniServerZ/core/apache2 -f C:\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\UniServerZ\\core\\apache2'
+[Sun Apr 28 23:02:13.073879 2019] [mpm_winnt:notice] [pid 10112:tid 744] AH00418: Parent: Created child process 33636
+[Sun Apr 28 23:02:16.320688 2019] [mpm_winnt:notice] [pid 33636:tid 968] AH00354: Child: Starting 150 worker threads.

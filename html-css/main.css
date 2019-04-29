@@ -1,0 +1,54 @@
+body { 
+    line-height: 1.5;
+  }
+  
+  .grid { 
+    display: grid; 
+  }
+  
+  .user-profile { 
+    display: grid; 
+    align-items: start;
+  }
+  
+  .biography { 
+    max-width: 12em; 
+  }
+  
+  .bold { 
+    font-weight: bold; 
+  }
+  
+  .link { /* may be renamed to "discrete-link" */ 
+    color: grey; 
+  }
+  
+  .link:hover { 
+    color: blue; 
+    cursor: pointer; 
+  } 
+  
+  .url { /* may be renamed to "link" */ 
+    color: blue; 
+    font-size: 22px; 
+    font-weight: bold; 
+  }  
+  .url:hover { 
+    color: blue; 
+    cursor: pointer; 
+    text-decoration: underline;   
+  }
+  
+  .tag { 
+    display: inline; 
+    color: grey; 
+    padding-left: 0.8em;   
+  } 
+  
+  .article-name button { 
+    margin-left: 15em; 
+  }
+  
+  .article-grid { 
+    /* display: grid; */  
+  } 
